@@ -59,6 +59,8 @@ Best regards,
 
 ## 邮件3
 和邮件2同时发送或者延迟发送都行  
+*注意：* 不是格拉斯哥的同学，需要访问 **https://www.nss.nhs.scot/medical-services/coronavirus-covid-19-update/coronavirus-covid-19-update-for-general-practitioners/** 在**Enquiries and support** 里面选择对应邮箱。  
+PS:如果邮件2得到回复没有更新的话，可以打电话问注射地或者写信给**nss.psdrecords@nhs.scot**询问是否有记录，如果有的话就疯狂催它就行。没记录可能要跟注射地斗智斗勇一下，我邮件2得到的回复是等政府消息，所以我也不知道没记录的同学该怎么办，等等其他人的攻略吧。  
 > **收件人：** nss.glasgow.registration@nhs.scot  
 > **标题：** issue with Covid status  
   
